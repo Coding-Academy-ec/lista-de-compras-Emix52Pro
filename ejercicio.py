@@ -9,4 +9,4 @@ def convertir_lista_a_tupla(lista):
     return tuple(lista)  # Convertir la lista a tupla
 
 productos_tupla = convertir_lista_a_tupla(productos)
-print(f"Los productos en la lista de compras (tupla) son: {productos_tupla}")
+
